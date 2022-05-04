@@ -2,8 +2,8 @@
 Welcome to my Git Hub.
 =============
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustlrtbvj&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustlrtbvj&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsigikim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 Personal Info
 -------------
@@ -11,7 +11,7 @@ Age : 26
 Name : Hyun sik Kim     
 Address : South Korea, Gwangju, Nam-gu     
 Education: Mokpo National University - Electrical engineering major     
-e-mail : gustlrtbvj@naver.com     
+e-mail : hyunsigi.kim@gmail.com
 
 
 Tool
