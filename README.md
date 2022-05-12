@@ -1,12 +1,13 @@
 
 Welcome to my Git Hub.
 =============
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsigikim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsigikim)](https://solved.ac/hyunsigikim)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsigikim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 Personal Info
 -------------
