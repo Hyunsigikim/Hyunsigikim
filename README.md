@@ -3,7 +3,8 @@ Welcome to my Git Hub.
 =============
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsigikim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
