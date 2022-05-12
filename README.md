@@ -1,11 +1,10 @@
 
 Welcome to my Git Hub.
 =============
-pip install -r requirements.txt
-python manage.py runserver # 서버 실행
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsigikim&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={hyunsigikim})](https://solved.ac/{hyunsigikim})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyunsigikim)](https://solved.ac/hyunsigikim)
 
 Personal Info
 -------------
