@@ -6,7 +6,7 @@ Welcome to my Git Hub.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunsigikim)](https://solved.ac/hyunsigikim)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunsigikim&show_icons=true&theme=graywhite)
 
 
 Personal Info
